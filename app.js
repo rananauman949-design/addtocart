@@ -4,6 +4,7 @@ const cartCount = document.querySelector('.icon-cart span');
 const cartList = document.querySelector('.ListCart');
 const closeBtn = document.querySelector('.close');
 const checkoutBtn = document.querySelector('.checkOut');
+const a = 1;
 
 // Store cart items
 let cart = [];
